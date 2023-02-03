@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Prisko
 - 👀 I’m interested in coding gaming and music
 - 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on discord: Prisko_#3105 or twitter @Prisko_
 
 <!---
